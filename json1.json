@@ -1,5 +1,5 @@
 {
-  "SpecialityCode": [
+  "Test1": [
     {
       "Source": "PIM",
       "Spec": "PIMS",
@@ -11,7 +11,7 @@
       "Desc": "TEST2"
     }
   ],
-  "HippaTaxonmyCodes": [
+  "Test2": [
     {
       "Taxonomy": "PIM",
       "Classification": "PIMS",
