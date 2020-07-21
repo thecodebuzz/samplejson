@@ -1,0 +1,26 @@
+{
+  "SpecialityCode": [
+    {
+      "Source": "PIM",
+      "Spec": "PIMS",
+      "Desc": "TEST1"
+    },
+    {
+      "Source": "PIM",
+      "Spec": "PIMS",
+      "Desc": "TEST2"
+    }
+  ],
+  "HippaTaxonmyCodes": [
+    {
+      "Taxonomy": "PIM",
+      "Classification": "PIMS",
+      "Specialization": "TEST1"
+    },
+    {
+      "Taxonomy": "PIM",
+      "Classification": "PIMS",
+      "Specialization": "TEST1"
+    }
+  ]
+}
